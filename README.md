@@ -39,7 +39,7 @@ This project adopts the **Medallion Architecture** paradigm to ensure modularity
 ---
 
 ## ⚙️ Folder Structure
-data-warehouse-project/
+```
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
@@ -58,7 +58,7 @@ data-warehouse-project/
 ├── tests/                              # Test scripts and quality files
 │
 └── README.md                           # Project overview and instructions
-
+```
 
 ## 🙏 Acknowledgments
 
